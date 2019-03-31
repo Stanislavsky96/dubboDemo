@@ -1,0 +1,3 @@
+com\chris\server\ServerApplication.class
+com\chris\server\controller\BaseController.class
+com\chris\server\service\dubbo\DubboItemService.class
