@@ -16,7 +16,7 @@
     <dubbo:protocol name="dubbo" />
 
     <!--消费方信息配置-->
-	<dubbo:application name="dubboExample-consume" owner="chris" organization="dubbox"/>
+	<dubbo:application name="dubboExample-provider" owner="chris" organization="dubbox"/>
 
 
 </beans>
